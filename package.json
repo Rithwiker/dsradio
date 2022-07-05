@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/moonstar-x/discord-music-24-7#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@greencoast/logger": "^1.0.1",
     "discord.js": "^12.2.0",
     "fs-extra": "^9.0.1",
